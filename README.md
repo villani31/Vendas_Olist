@@ -1,4 +1,4 @@
-# Previsão de Vendas Olist
+# Analise de dados Vendas Olist
 
 Olist é uma statup Brasileira que atua no segmento de e-commerce, sobretudo por meio de marketplace, conecta pequenas empresas de todo o Brasil, esses comerciantes podem vender seus produtos através da **Lojas Olist**, e enviá-los diretamente para os clientes usando os parceiros de logística **Olist**.
 
