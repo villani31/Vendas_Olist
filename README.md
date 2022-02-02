@@ -44,7 +44,9 @@ Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza d
 
 ## Gerado alguns Insights
 
-
+<p align="center">
+  <img src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-de-analise-da-instalacao_114360-1438.jpg" alt="Prever_custo_seguro"height=400px >
+</p>
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
