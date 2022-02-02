@@ -6,9 +6,9 @@ Olist é uma statup Brasileira que atua no segmento de e-commerce, sobretudo por
 
 ## Membros da Squad
 
-* Bruno Barbosa Medeiros - 
-* Paulo Sergio da Silva Júnior - 
-* Thiago Villani - 
+* Bruno Barbosa Medeiros - [Linkedin](https://www.linkedin.com/in/bruno-medeiros-75305a107/)
+* Paulo Sergio da Silva Júnior - [Linkedin](https://www.linkedin.com/in/paulosilvajr/)
+* Thiago Villani - [Linkedin](https://www.linkedin.com/in/thiagovillani)
 * Janize Castilho - 
 
 ## Objetivo do Projeto
