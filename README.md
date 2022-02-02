@@ -126,6 +126,13 @@ Plotly é uma biblioteca de visualização de dados do Python, e que permite a c
 * Qual a previsão de vendas, considerando a Categoria do Produto?
 * Qual a previsão de vendas, considerando o valor dos produtos?
 
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/ml01.png" alt="ML"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/ml02.png" alt="ML"height=400px >
+</p>
 
 ## Informações
 
