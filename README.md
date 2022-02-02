@@ -120,7 +120,11 @@ Plotly é uma biblioteca de visualização de dados do Python, e que permite a c
 </p>
 
 ## Machine Learning
+#### Perguntas de negocios a serem respondidas???
 
+* Qual a previsão de vendas, considerando o Estado do Cliente?
+* Qual a previsão de vendas, considerando a Categoria do Produto?
+* Qual a previsão de vendas, considerando o valor dos produtos?
 
 
 ## Informações
