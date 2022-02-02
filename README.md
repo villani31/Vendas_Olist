@@ -77,6 +77,18 @@ Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza d
 <p align="center">
   <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/valor_medio.png" alt="Valor_medio"height=400px >
 </p>
+
+## Dashboard final com Plotly
+
+Após analise geral feita, criado um Dashboard utilizando ferramenta **Chart-Studio** da [Cloud Plotly](https://plotly.com/).
+
+Plotly é uma biblioteca de visualização de dados do Python, e que permite a criação e publicação de gráficos interativos, bonitos e de altíssima qualidade.
+
+[Clique aqui](https://plotly.com/~iamthiagovillani/15/untitled-dashboard/) para acessar o **Dashboard**.
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/dashboard-olist_3.png" alt="Dashboard"height=400px >
+</p>
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
