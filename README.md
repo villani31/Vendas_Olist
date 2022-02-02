@@ -38,7 +38,7 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
 
 ## Arquitetura da solução
 
-Containers criados para o projeto utilizando Docker-compose
+Ambiente de Engenharia de Dados, criado de forma **On-Premises**. Containers gerado para o projeto utilizando **Docker-compose**:
 
 * Airflow(e dependencias)
 * Mysql
