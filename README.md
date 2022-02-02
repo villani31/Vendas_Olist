@@ -42,15 +42,15 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
   <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/arquitetura-solucao.png" alt="Arquitetura"height=400px >
 </p>
 
-## Analise Exploratória dos Dados
+## Análise Exploratória dos Dados
 
-Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza dos dados, criado um novo dataset consolidado, e gerar insights para identificar padrões:
+Foi feito uma análise geral dos dados, com o objetivo de entendimento, limpeza dos dados, criado um novo dataset consolidado, e gerar insights para identificar padrões:
 
 [Clique aqui para acesso ao Notebook completo.](https://github.com/villani31/Vendas_Olist/blob/main/Analise_De_Dados_Olist.ipynb)
 
 ## Gerado alguns Insights
 
-### Resumo da analise:
+### Resumo da análise:
 * Pedidos entregue com sucesso - 94320
 * Forma de pagamento mais utilizada é cartão de crédito - 70481
 * Categoria de produto mais vendido (cama_mesa_banho) - 10542
