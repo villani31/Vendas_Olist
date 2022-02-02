@@ -46,6 +46,15 @@ Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza d
 
 ## Gerado alguns Insights
 
+### Resumo da analise:
+* Pedidos entregue com sucesso - 94320
+* Forma de pagamento mais utilizada é cartão de crédito - 70481
+* Categoria de produto mais vendido (cama_mesa_banho) - 10542
+* Clientes que mais compra, são do estado de São Paulo - 44%
+* Pedidos por dia, pico de - 1200
+* Valor médio de transação - R$ 107,07
+* Valor médio de frete - R$ 15,75
+
 <p align="center">
   <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/categoria_produtos.png" alt="Categoria_Produtos"height=400px >
 </p>
