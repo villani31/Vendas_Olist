@@ -136,7 +136,7 @@ Plotly é uma biblioteca de visualização de dados do Python, e que permite a c
 
 ## Informações
 
-Projeto ainda não foi concluído totalmente, a faze de Machine Learning ainda não foi finalizada totalmente.
+Projeto ainda não foi concluído totalmente, a faze de Machine Learning não foi finalizada totalmente.
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
