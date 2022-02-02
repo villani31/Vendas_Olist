@@ -4,7 +4,7 @@ Esse projeto é uma iniciativa da Stack Tecnologia, que criou o **Stack Labs**, 
 
 Olist é uma statup Brasileira que atua no segmento de e-commerce, sobretudo por meio de marketplace, conecta pequenas empresas de todo o Brasil, esses comerciantes podem vender seus produtos através da **Lojas Olist**, e enviá-los diretamente para os clientes usando os parceiros de logística **Olist**.
 
-## Membros do Projeto
+## Membros da Squad
 
 * Bruno Barbosa Medeiros - 
 * Paulo Sergio da Silva Júnior - 
@@ -21,6 +21,16 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
 * Engenheiro de Dados
 * Analista de Dados
 * Cientista de Dados
+
+## Tecnologias utilizada
+
+* Docker
+* Airflow
+* Python
+* Minio(S3)
+* Mysql
+* Jupyter Notebook
+* Plotly
 
 
 
