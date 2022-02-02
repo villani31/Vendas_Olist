@@ -34,7 +34,9 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
 
 ## Arquitetura da solução
 
-imagem
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/arquitetura-solucao.png" alt="Arquitetura"height=400px >
+</p>
 
 ## Analise Exploratória dos Dados
 
@@ -45,7 +47,35 @@ Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza d
 ## Gerado alguns Insights
 
 <p align="center">
-  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/categoria_produtos.png" alt="Prever_custo_seguro"height=400px >
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/categoria_produtos.png" alt="Categoria_Produtos"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/clientes_estado.png" alt="Clientes_estado"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/distribuicao_forma_pagamento.png" alt="Forma_Pagamento"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/metodo_pagamento.png" alt="Metodo_pagamento"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/pedidos_dia.png" alt="Pedido_dia"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/pedidos_mes.png" alt="Pedido_mes"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/status_pedidos.png" alt="Status_pedido"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/valor_medio.png" alt="Valor_medio"height=400px >
 </p>
   
 **Links:**
