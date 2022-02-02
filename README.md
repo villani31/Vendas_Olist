@@ -38,8 +38,24 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
 
 ## Arquitetura da solução
 
+Containers criados para o projeto utilizando Docker-compose
+
+* Airflow(e dependencias)
+* Mysql
+* Spark
+* Jupyter-notebook
+* Minio
+
 <p align="center">
   <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/arquitetura-solucao.png" alt="Arquitetura"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/airflow01.png" alt="Airflow"height=400px >
+</p>
+
+<p align="center">
+  <img src="https://github.com/villani31/Vendas_Olist/blob/main/imagens/airflow02.png" alt="Airflow"height=400px >
 </p>
 
 ## Análise Exploratória dos Dados
