@@ -13,7 +13,7 @@ Olist é uma statup Brasileira que atua no segmento de e-commerce, sobretudo por
 
 ## Objetivo do Projeto
 
-Fazer uma analise completa dos dados disponibilizado públicamente no [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce), e entendimento de como funciona a distribuição das vendas.
+Fazer uma analise completa dos dados disponibilizado públicamente no [Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce), entendimento de como funciona a distribuição das vendas, criando um Dashboard com as analises feitas.
 
 Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi divido com as seguintes funções:
 
@@ -32,9 +32,19 @@ Nesse projeto passamos por todas as estapas de um projeto de dados, o squad foi 
 * Jupyter Notebook
 * Plotly
 
+## Arquitetura da solução
+
+imagem
+
+## Analise Exploratória dos Dados
+
+Foi feito uma analise geral dos dados, com o objetivo de entendimento, limpeza dos dados, criado um novo dataset consolidado, e gerar insights para identificar padrões:
+
+[Clique aqui para acesso ao Notebook completo.](https://github.com/villani31/Vendas_Olist/blob/main/Analise_De_Dados_Olist.ipynb)
+
+## Gerado alguns Insights
 
 
-[Clique aqui para acesso ao projeto.](https://github.com/villani31/Vendas_Olist/blob/main/Analise_De_Dados_Olist.ipynb)
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiagovillani)
